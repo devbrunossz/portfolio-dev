@@ -21,7 +21,7 @@ Também inclui alternância dinâmica entre as seções utilizando JavaScript.
 
 ## 🌐 Acesse o projeto
 
-👉 (https://devbrunossz.github.io/portfolio-dev/)
+👉 https://devbrunossz.github.io/portfolio-dev/
 
 ## 📂 Estrutura do projeto
 
